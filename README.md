@@ -57,7 +57,7 @@ Berikut adalah fitur yang telah ditesting oleh pemilik repositori namun tidak be
 - ⛔️ Airdrop (aktif namun tidak dapat mendeteksi serta terdeteksi perangkat lain untuk mengirimkan dan juga menerima berkas)
 - ⛔️ Wake dari Sleep
 
-<img src="https://raw.githubusercontent.com/nandcep/hackintosh-opencore-efi-hp-elitebook-830-g7/refs/heads/master/image-desktop.jpg" />
+<img src="https://raw.githubusercontent.com/nandcep/hackintosh-opencore-efi-hp-elitebook-830-g7/refs/heads/master/image-desktop.png" />
 
 ## Catatan Instalasi dan Troubleshot
 
