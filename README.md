@@ -5,7 +5,7 @@
 <a href="https://github.com/acidanthera/OpenCorePkg/releases">
     <img src="https://img.shields.io/badge/OpenCore-0.9.3-9cf" width="155"/>
 </a>
-<a href="https://github.com/adinandradrs/hackintosh-opencore-efi-hp-elitebook-830-g7">
+<a href="https://github.com/nandcep/hackintosh-opencore-efi-hp-elitebook-830-g7">
     <img src="https://img.shields.io/badge/release-EFI-green.svg" width="120"/>
 </a>
 
@@ -15,7 +15,7 @@ Merupakan komponen Hackintosh beserta konfigurasi OpenCore untuk instalasi **mac
 Harap disesuaikan dengan perangkat setiap personal meskipun memiliki seri yang sama atau kemiripan spesifikasi. 
 
 <p align="center">
-  <img src="https://github.com/adinandradrs/hackintosh-hp-elitebook-830-g7-monterey/blob/master/banner.jpg?raw=false">
+  <img src="https://raw.githubusercontent.com/nandcep/hackintosh-opencore-efi-hp-elitebook-830-g7/refs/heads/master/banner.jpg">
 </p>
 
 Hal terpenting adalah apabila terdapat ketidaksesuaian dan kegagalan perangkat ataupun kerusakan yang dikarenakan instalasi bukan tanggung jawab dari pemilik repositori ini. Dipersilakan untuk melakukan open issue selama repositori ini aktif.
@@ -57,7 +57,7 @@ Berikut adalah fitur yang telah ditesting oleh pemilik repositori namun tidak be
 - ⛔️ Airdrop (aktif namun tidak dapat mendeteksi serta terdeteksi perangkat lain untuk mengirimkan dan juga menerima berkas)
 - ⛔️ Wake dari Sleep
 
-<img src="https://github.com/adinandradrs/hackintosh-hp-elitebook-830-g7-monterey/blob/master/image-desktop.png?raw=false" />
+<img src="https://raw.githubusercontent.com/nandcep/hackintosh-opencore-efi-hp-elitebook-830-g7/refs/heads/master/image-desktop.jpg" />
 
 ## Catatan Instalasi dan Troubleshot
 
